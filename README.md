@@ -62,4 +62,29 @@
 
 ---
 
-<a href="https://tarektusher.github.io/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=tarektusher&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarektusher&hide_title=true&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<a href="https://tarektusher.github.io/"><img height="127px" src="https://github-readme-stats.vercel.app/api?username=tarektusher&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><img height="127px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarektusher&hide_title=true&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+
+
+### Operating System:
+ <img align="left" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+ <img align="left" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+ <img align="left" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+ <img align="left" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+ 
+<br>
+<br>
+
+### My IDEs/Editor:
+ <img align="left" alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+ <img align="left" alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
+
+<br>
+<br>
+<br>
+
+<details>
+ <summary> :zap: Stargazers </summary>
+ 
+  [![Stargazers repo roster for @tarektusher/tarektusher](https://reporoster.com/stars/tarektusher/tarektusher)](https://github.com/tarektusher/tarektusher/stargazers)
+
+</details>
