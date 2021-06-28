@@ -12,4 +12,4 @@
 -->
 
 
-![enter image description here](https://github-readme-stats.vercel.app/api?username=tarektusher&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![enter image description here](https://github-readme-stats.vercel.app/api?username=tarektusher&&show_icons=true&title_color=E2F516&icon_color=BDF516&text_color=daf7dc&bg_color=033E3E)
