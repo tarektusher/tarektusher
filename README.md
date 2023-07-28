@@ -6,11 +6,11 @@
 <img align='right' src="https://media.giphy.com/media/lqwcYeLIvQSUcSf6nP/giphy.gif" width="230">
 
 
-- 🔭 I’m currently working on Machine Learning Project <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="60"></h2>
-- 🌱 I’m currently learning Competitive Programming,Machine Learning
+- 🔭 I’m currently working on MERN and PERN Project <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="60"></h2>
+- 🌱 I’m currently learning Competitive Programming,Machine Learning,Full Stack Development
 - 👯 I am always open to learning new things
 - 🤔 I am still looking for a job opportunity
-- 💬 Ask me about CP and ML
+- 💬 Ask me about CP and ML and MERN and PERN
 - ⚡ Fun fact:I love to thinking,imagine and playing Football(Brazil is my favourite team)
 
 
