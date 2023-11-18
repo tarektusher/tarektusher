@@ -1,7 +1,7 @@
 # Assalamualaikum.I'm Tarek 👋✨
 
 
-## Glad to see you here!  ![Visitor](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=tarektusher&repo=tarektusher&countColorcountColor&countColor=%237B1E7A)
+## Glad to see you here!  ![Visitor](https://komarev.com/ghpvc/?username=tarektusher)
 
 <img align='right' src="https://media.giphy.com/media/lqwcYeLIvQSUcSf6nP/giphy.gif" width="230">
 
@@ -23,9 +23,11 @@
 [<img align="left" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />](https://github.com/tarektusher)
 [<img  align="left" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />](https://github.com/tarektusher)
 [<img align="left" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />](https://github.com/tarektusher)
+[<img align="left" src="https://img.shields.io/badge/HTML-3776AB?style=for-the-badge&logo=html&logoColor=white" />](https://github.com/tarektusher)
+[<img align="left" src="https://img.shields.io/badge/CSS-3776AB?style=for-the-badge&logo=css&logoColor=white" />](https://github.com/tarektusher)
+[<img align="left" src="https://img.shields.io/badge/JS-3776AB?style=for-the-badge&logo=javascript&logoColor=white" />](https://github.com/tarektusher)
 [<img align="left" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />](https://github.com/tarektusher)
 [<img align="left" alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/tarektusher)
-[<img align="left" alt="Arduino" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" />](https://github.com/tarektusher)
 [<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/tarektusher)
 
 <br>
